@@ -6,3 +6,15 @@ void main()
     int a[7];
     int i;
     cout<<"\n Enter the elements of the array";
+    for(i=0;i<=6;==i)
+    {  
+      cout<<"\n Enter the element:";
+      cin>>a[i];
+    }
+    cout<<"\n Displaying the elements of the array";
+    for (i=0;i<7;++i)
+    {
+      cout<<a[i]<<endl;
+    }
+    getch();
+  }
