@@ -1,0 +1,8 @@
+include<iostream.h>
+include<conio.h>
+void main()
+  {
+    clrscr();
+    int a[7];
+    int i;
+    cout<<"\n Enter the elements of the array";
