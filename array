@@ -1,12 +1,12 @@
-include<iostream.h>
-include<conio.h>
+#include<iostream.h>
+#include<conio.h>
 void main()
   {
     clrscr();
     int a[7];
     int i;
     cout<<"\n Enter the elements of the array";
-    for(i=0;i<=6;==i)
+    for(i=0;i<=6;++i)
     {  
       cout<<"\n Enter the element:";
       cin>>a[i];
